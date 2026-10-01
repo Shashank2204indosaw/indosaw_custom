@@ -1,0 +1,24 @@
+{
+    "name": "pxt-indosaw-kit",
+    "version": "0.0.1",
+    "description": "Custom blocks for Indosaw Sensor and Motor Kit",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "servo": "*",
+        "microbit-dstemp": "github:bsiever/microbit-dstemp#v0.2.1"
+    },
+    "files": [
+        "main.ts",
+        "README.md"
+    ],
+    "targetVersions": {
+        "target": "9.0.8",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}
