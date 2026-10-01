@@ -7,14 +7,15 @@
         "radio": "*",
         "microphone": "*",
         "servo": "*",
-        "microbit-dstemp": "github:bsiever/microbit-dstemp#v0.2.1"
+        "microbit-dstemp": "github:bsiever/microbit-dstemp#v0.2.1",
+        "neopixel": "github:microsoft/pxt-neopixel#v0.7.6"
     },
     "files": [
         "main.ts",
         "README.md"
     ],
     "targetVersions": {
-        "target": "9.0.8",
+        "target": "9.0.12",
         "targetId": "microbit"
     },
     "supportedTargets": [
