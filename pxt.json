@@ -1,6 +1,6 @@
 {
-    "name": "pxt-indosaw-kit",
-    "version": "0.0.1",
+    "name": "indosaw-kit",
+    "version": "0.0.2",
     "description": "Custom blocks for Indosaw Sensor and Motor Kit",
     "dependencies": {
         "core": "*",
