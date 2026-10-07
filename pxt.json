@@ -11,9 +11,14 @@
         "dstemp": "github:elecfreaks/pxt-ds18b20#v0.0.3"
     },
     "files": [
-        "main.ts",
-        "README.md",
-        "test.ts"
+    "main.ts",
+    "README.md",
+    "dstemp.ts",
+    "dstemp.cpp",
+    "shims.d.ts",
+    "enums.d.ts",
+    "pxtparts.json",
+    "parts/ds18b20probe.svg"
     ],
     "targetVersions": {
         "target": "9.0.12",
