@@ -1,14 +1,13 @@
 {
     "name": "indosaw-kit",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "Custom blocks for Indosaw Sensor and Motor Kit",
     "dependencies": {
         "core": "*",
         "radio": "*",
         "microphone": "*",
         "servo": "*",
-        "neopixel": "github:microsoft/pxt-neopixel#v0.7.11",
-        "dstemp": "github:elecfreaks/pxt-ds18b20#v0.0.3"
+        "neopixel": "github:microsoft/pxt-neopixel#v0.7.11"
     },
     "files": [
     "main.ts",
@@ -19,6 +18,9 @@
     "enums.d.ts",
     "pxtparts.json",
     "parts/ds18b20probe.svg"
+    ],
+    "testFiles": [
+        "test.ts"
     ],
     "targetVersions": {
         "target": "9.0.12",
