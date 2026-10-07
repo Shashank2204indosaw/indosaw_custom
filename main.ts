@@ -95,6 +95,7 @@ namespace DeviceConfig {
 }
 
 //% color="#4CAF50" icon="\uf06c" block="Soil Sensor"
+//% color="#4CAF50" icon="\uf06c" block="Soil Sensor"
 namespace soilSensor {
     let continuousSoilValueP4 = 0;
 
