@@ -13,7 +13,6 @@
     "main.ts",
     "README.md",
     "dstemp.ts",
-    "dstemp.cpp",
     "shims.d.ts",
     "enums.d.ts",
     "pxtparts.json",
